@@ -81,13 +81,13 @@ Make sure you have the following installed:
 
 ## 📂 Project Structure
 
-nosql-challenge/
+```nosql-challenge/
 ├── Resources/
 │   └── establishments.json
 ├── NoSQL_setup_starter.ipynb
 ├── NoSQL_analysis_starter.ipynb
 └── README.md
-
+```
 
 ---
 
